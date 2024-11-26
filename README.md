@@ -1,3 +1,6 @@
+<div align="center">
+  <img height="150" src="https://www.linkedin.com/in/rahul-molla/overlay/background-image/"  />
+</div>
 <h1 align="center">Hi 👋, I'm Rahul Molla</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul-molla&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-molla" /> </p>
 
