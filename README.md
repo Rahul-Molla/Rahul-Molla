@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://github.com/sarah-hart-landolt/sarah-hart-landolt/blob/master/Sarah%20Hart%20Landolt.png" alt="banner that says Sarah hart Landolt - software developer, artist, designer">
-  <img height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fimages%2Fsearch%2Fbanner%2F&psig=AOvVaw3YOH-vO8xJziGI_E2ZDJKQ&ust=1732724065719000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPCEyaay-okDFQAAAAAdAAAAABAE"  />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fimages%2Fsearch%2Fbanner%2F&psig=AOvVaw3YOH-vO8xJziGI_E2ZDJKQ&ust=1732724065719000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPCEyaay-okDFQAAAAAdAAAAABAE">
 </div>
 <h1 align="center">Hi 👋, I'm Rahul Molla</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul-molla&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-molla" /> </p>
