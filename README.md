@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://www.linkedin.com/in/rahul-molla/overlay/background-image/"  />
+  <img height="150" src="[https://www.linkedin.com/in/rahul-molla/overlay/background-image/](https://media.licdn.com/dms/image/v2/D5616AQH6YuH2Heo78g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1732282600668?e=1738195200&v=beta&t=I6dNrNXXyI9gH_B1wn1fj7Ohx2l5jd4r50Q0sgdkirA)"  />
 </div>
 <h1 align="center">Hi 👋, I'm Rahul Molla</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul-molla&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-molla" /> </p>
